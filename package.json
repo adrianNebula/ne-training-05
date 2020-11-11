@@ -1,0 +1,14 @@
+{
+  "name": "ne-training-05",
+  "version": "1.0.0",
+  "description": "",
+  "main": "train.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "speed"
+  ],
+  "author": "a.lara645@pascualbravo.edu.co",
+  "license": "ISC"
+}
